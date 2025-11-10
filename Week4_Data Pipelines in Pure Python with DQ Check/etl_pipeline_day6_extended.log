@@ -1,0 +1,100 @@
+2025-09-21 10:18:21,307 - INFO - \U0001f680 Day 6 Extended ETL pipeline started
+2025-09-21 10:18:21,308 - ERROR - \u274c Extraction failed for sales_data.csv: [Errno 2] No such file or directory: 'sales_data.csv'
+2025-09-21 10:18:21,310 - ERROR - \u274c Extraction failed for customers_data.csv: [Errno 2] No such file or directory: 'customers_data.csv'
+2025-09-21 10:18:21,310 - WARNING - \u26a0\ufe0f Sales data empty
+2025-09-21 10:18:21,310 - WARNING - \u26a0\ufe0f Customers data empty
+2025-09-21 10:18:21,310 - WARNING - \u26a0\ufe0f One or both datasets are empty, cannot join
+2025-09-21 10:18:21,310 - WARNING - \u26a0\ufe0f No data to load into sales
+2025-09-21 10:18:21,310 - WARNING - \u26a0\ufe0f No data to load into customers
+2025-09-21 10:18:21,315 - WARNING - \u26a0\ufe0f No data to load into fact_sales
+2025-09-21 10:18:21,316 - INFO - \U0001f3c1 Day 6 Extended ETL pipeline finished
+2025-09-21 10:21:43,665 - INFO - \U0001f680 Day 6 Extended ETL pipeline started
+2025-09-21 10:21:43,667 - ERROR - \u274c Extraction failed for sales_data.csv: [Errno 2] No such file or directory: 'sales_data.csv'
+2025-09-21 10:21:43,668 - ERROR - \u274c Extraction failed for customers_data.csv: [Errno 2] No such file or directory: 'customers_data.csv'
+2025-09-21 10:21:43,669 - WARNING - \u26a0\ufe0f Sales data empty
+2025-09-21 10:21:43,669 - WARNING - \u26a0\ufe0f Customers data empty
+2025-09-21 10:21:43,669 - WARNING - \u26a0\ufe0f One or both datasets are empty, cannot join
+2025-09-21 10:21:43,669 - WARNING - \u26a0\ufe0f No data to load into sales
+2025-09-21 10:21:43,669 - WARNING - \u26a0\ufe0f No data to load into customers
+2025-09-21 10:21:43,669 - WARNING - \u26a0\ufe0f No data to load into fact_sales
+2025-09-21 10:21:43,669 - INFO - \U0001f3c1 Day 6 Extended ETL pipeline finished
+2025-09-21 10:31:37,457 - INFO - \U0001f680 Day 6 Extended ETL pipeline started
+2025-09-21 10:31:37,464 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\sales_data.csv successfully
+2025-09-21 10:31:37,470 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\customers_data.csv successfully
+2025-09-21 10:31:37,473 - INFO - \u2705 Sales transformation successful
+2025-09-21 10:31:37,475 - INFO - \u2705 Customers transformation successful
+2025-09-21 10:31:37,477 - INFO - \u2705 Joined sales and customers successfully
+2025-09-21 10:31:37,493 - INFO - \u2705 Loaded data into sales table successfully
+2025-09-21 10:31:37,506 - INFO - \u2705 Loaded data into customers table successfully
+2025-09-21 10:31:37,520 - INFO - \u2705 Loaded data into fact_sales table successfully
+2025-09-21 10:31:37,520 - INFO - \U0001f3c1 Day 6 Extended ETL pipeline finished
+2025-09-21 10:33:52,984 - INFO - \U0001f680 Day 6 Extended ETL pipeline started
+2025-09-21 10:33:52,993 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\sales_data.csv successfully
+2025-09-21 10:33:53,002 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\customers_data.csv successfully
+2025-09-21 10:33:53,013 - INFO - \u2705 Sales transformation successful
+2025-09-21 10:33:53,015 - INFO - \u2705 Customers transformation successful
+2025-09-21 10:33:53,019 - INFO - \u2705 Joined sales and customers successfully
+2025-09-21 10:33:53,043 - INFO - \u2705 Loaded data into sales table successfully
+2025-09-21 10:33:53,060 - INFO - \u2705 Loaded data into customers table successfully
+2025-09-21 10:33:53,085 - INFO - \u2705 Loaded data into fact_sales table successfully
+2025-09-21 10:33:53,085 - INFO - \U0001f3c1 Day 6 Extended ETL pipeline finished
+2025-09-21 10:37:01,942 - INFO - \U0001f680 Day 6 Extended ETL pipeline started
+2025-09-21 10:37:01,945 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\sales_data.csv successfully
+2025-09-21 10:37:01,947 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\customers_data.csv successfully
+2025-09-21 10:37:01,951 - INFO - \u2705 Sales transformation successful
+2025-09-21 10:37:01,954 - INFO - \u2705 Customers transformation successful
+2025-09-21 10:37:01,958 - INFO - \u2705 Joined sales and customers successfully
+2025-09-21 10:37:01,976 - INFO - \u2705 Loaded data into sales table successfully
+2025-09-21 10:37:01,993 - INFO - \u2705 Loaded data into customers table successfully
+2025-09-21 10:37:02,009 - INFO - \u2705 Loaded data into fact_sales table successfully
+2025-09-21 10:37:02,009 - INFO - \U0001f3c1 Day 6 Extended ETL pipeline finished
+2025-09-21 10:37:22,717 - INFO - \U0001f680 Day 6 Extended ETL pipeline started
+2025-09-21 10:37:22,718 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\sales_data.csv successfully
+2025-09-21 10:37:22,720 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\customers_data.csv successfully
+2025-09-21 10:37:22,726 - INFO - \u2705 Sales transformation successful
+2025-09-21 10:37:22,728 - INFO - \u2705 Customers transformation successful
+2025-09-21 10:37:22,734 - INFO - \u2705 Joined sales and customers successfully
+2025-09-21 10:37:22,754 - INFO - \u2705 Loaded data into sales table successfully
+2025-09-21 10:37:22,771 - INFO - \u2705 Loaded data into customers table successfully
+2025-09-21 10:37:22,790 - INFO - \u2705 Loaded data into fact_sales table successfully
+2025-09-21 10:37:22,790 - INFO - \U0001f3c1 Day 6 Extended ETL pipeline finished
+2025-09-21 10:37:46,507 - INFO - \U0001f680 Day 6 Extended ETL pipeline started
+2025-09-21 10:37:46,510 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\sales_data.csv successfully
+2025-09-21 10:37:46,512 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\customers_data.csv successfully
+2025-09-21 10:37:46,517 - INFO - \u2705 Sales transformation successful
+2025-09-21 10:37:46,518 - INFO - \u2705 Customers transformation successful
+2025-09-21 10:37:46,525 - INFO - \u2705 Joined sales and customers successfully
+2025-09-21 10:37:46,550 - INFO - \u2705 Loaded data into sales table successfully
+2025-09-21 10:37:46,567 - INFO - \u2705 Loaded data into customers table successfully
+2025-09-21 10:37:46,586 - INFO - \u2705 Loaded data into fact_sales table successfully
+2025-09-21 10:37:46,586 - INFO - \U0001f3c1 Day 6 Extended ETL pipeline finished
+2025-09-21 10:38:40,757 - INFO - \U0001f680 Day 6 Extended ETL pipeline started
+2025-09-21 10:38:40,759 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\sales_data.csv successfully
+2025-09-21 10:38:40,763 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\customers_data.csv successfully
+2025-09-21 10:38:40,773 - INFO - \u2705 Sales transformation successful
+2025-09-21 10:38:40,777 - INFO - \u2705 Customers transformation successful
+2025-09-21 10:38:40,786 - INFO - \u2705 Joined sales and customers successfully
+2025-09-21 10:38:40,809 - INFO - \u2705 Loaded data into sales table successfully
+2025-09-21 10:38:40,826 - INFO - \u2705 Loaded data into customers table successfully
+2025-09-21 10:38:40,843 - INFO - \u2705 Loaded data into fact_sales table successfully
+2025-09-21 10:38:40,843 - INFO - \U0001f3c1 Day 6 Extended ETL pipeline finished
+2025-09-21 10:39:50,088 - INFO - \U0001f680 Day 6 Extended ETL pipeline started
+2025-09-21 10:39:50,089 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\sales_data.csv successfully
+2025-09-21 10:39:50,090 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\customers_data.csv successfully
+2025-09-21 10:39:50,098 - INFO - \u2705 Sales transformation successful
+2025-09-21 10:39:50,101 - INFO - \u2705 Customers transformation successful
+2025-09-21 10:39:50,106 - INFO - \u2705 Joined sales and customers successfully
+2025-09-21 10:39:50,127 - INFO - \u2705 Loaded data into sales table successfully
+2025-09-21 10:39:50,143 - INFO - \u2705 Loaded data into customers table successfully
+2025-09-21 10:39:50,158 - INFO - \u2705 Loaded data into fact_sales table successfully
+2025-09-21 10:39:50,159 - INFO - \U0001f3c1 Day 6 Extended ETL pipeline finished
+2025-09-21 10:41:40,223 - INFO - \U0001f680 Day 6 Extended ETL pipeline started
+2025-09-21 10:41:40,227 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\sales_data.csv successfully
+2025-09-21 10:41:40,230 - INFO - \u2705 Extracted D:\DE\ETL_Practices\Practice_Coding\8 Weeks Pyhton Practice for DE\Week4_Data Pipelines in Pure Python\Sample Dataset\customers_data.csv successfully
+2025-09-21 10:41:40,237 - INFO - \u2705 Sales transformation successful
+2025-09-21 10:41:40,240 - INFO - \u2705 Customers transformation successful
+2025-09-21 10:41:40,249 - INFO - \u2705 Joined sales and customers successfully
+2025-09-21 10:41:40,279 - INFO - \u2705 Loaded data into sales table successfully
+2025-09-21 10:41:40,300 - INFO - \u2705 Loaded data into customers table successfully
+2025-09-21 10:41:40,323 - INFO - \u2705 Loaded data into fact_sales table successfully
+2025-09-21 10:41:40,323 - INFO - \U0001f3c1 Day 6 Extended ETL pipeline finished

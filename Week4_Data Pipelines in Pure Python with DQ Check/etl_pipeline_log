@@ -1,0 +1,36 @@
+2025-09-21 09:47:19,532 - INFO - \U0001f680 ETL pipeline started
+2025-09-21 09:47:19,535 - ERROR - Extraction failed with error: [Errno 2] No such file or directory: 'sales_data.csv'
+2025-09-21 09:47:19,536 - WARNING -  No data to transform
+2025-09-21 09:47:19,536 - WARNING - \u26a0\ufe0f No data to load into DB
+2025-09-21 09:47:19,536 - INFO - \U0001f3c1 ETL pipeline finished
+2025-09-21 09:47:36,437 - INFO - \U0001f680 ETL pipeline started
+2025-09-21 09:47:36,439 - ERROR - Extraction failed with error: [Errno 2] No such file or directory: 'sales_data.csv'
+2025-09-21 09:47:36,439 - WARNING -  No data to transform
+2025-09-21 09:47:36,439 - WARNING - \u26a0\ufe0f No data to load into DB
+2025-09-21 09:47:36,441 - INFO - \U0001f3c1 ETL pipeline finished
+2025-09-21 09:47:40,178 - INFO - \U0001f680 ETL pipeline started
+2025-09-21 09:47:40,183 - ERROR - Extraction failed with error: [Errno 2] No such file or directory: 'sales_data.csv'
+2025-09-21 09:47:40,184 - WARNING -  No data to transform
+2025-09-21 09:47:40,185 - WARNING - \u26a0\ufe0f No data to load into DB
+2025-09-21 09:47:40,185 - INFO - \U0001f3c1 ETL pipeline finished
+2025-09-21 09:47:53,928 - INFO - \u2705 Extracted data successfully
+2025-09-21 09:47:53,936 - INFO - Transformation successful
+2025-09-21 09:47:53,985 - INFO - \u2705 Loaded data into DB successfully
+2025-09-21 09:47:56,569 - INFO - \u2705 Extracted data successfully
+2025-09-21 09:47:56,581 - INFO - Transformation successful
+2025-09-21 09:47:56,625 - INFO - \u2705 Loaded data into DB successfully
+2025-09-21 09:47:59,313 - INFO - \U0001f680 ETL pipeline started
+2025-09-21 09:47:59,313 - ERROR - Extraction failed with error: [Errno 2] No such file or directory: 'sales_data.csv'
+2025-09-21 09:47:59,313 - WARNING -  No data to transform
+2025-09-21 09:47:59,313 - WARNING - \u26a0\ufe0f No data to load into DB
+2025-09-21 09:47:59,313 - INFO - \U0001f3c1 ETL pipeline finished
+2025-09-21 09:49:07,559 - INFO - \U0001f680 ETL pipeline started
+2025-09-21 09:49:07,564 - ERROR - Extraction failed with error: [Errno 2] No such file or directory: 'sales_data.csv'
+2025-09-21 09:49:07,568 - WARNING -  No data to transform
+2025-09-21 09:49:07,568 - WARNING - \u26a0\ufe0f No data to load into DB
+2025-09-21 09:49:07,568 - INFO - \U0001f3c1 ETL pipeline finished
+2025-09-21 09:50:27,807 - INFO - \U0001f680 ETL pipeline started
+2025-09-21 09:50:27,816 - INFO - \u2705 Extracted data successfully
+2025-09-21 09:50:27,820 - INFO - Transformation successful
+2025-09-21 09:50:27,863 - INFO - \u2705 Loaded data into DB successfully
+2025-09-21 09:50:27,863 - INFO - \U0001f3c1 ETL pipeline finished

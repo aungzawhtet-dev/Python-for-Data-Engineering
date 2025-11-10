@@ -1,0 +1,21 @@
+2025-09-21 22:28:40,381 - INFO - Logging ETL pipeline Mini Project started
+2025-09-21 22:28:40,397 - INFO - Extract successful
+2025-09-21 22:28:40,410 - INFO - Transform successful
+2025-09-21 22:28:40,483 - INFO - Load successful
+2025-09-21 22:28:40,483 - INFO - Running Soda scan...
+2025-09-21 22:28:43,650 - INFO - [22:28:42] Soda Core 3.5.5
+[22:28:42] Scan summary:
+[22:28:42] 6/6 checks PASSED: 
+[22:28:42]     customers in postgres_db
+[22:28:42]       row_count > 0 [PASSED]
+[22:28:42]       missing_count(email) = 0 [PASSED]
+[22:28:42]       duplicate_count(customer_id) = 0 [PASSED]
+[22:28:42]     orders in postgres_db
+[22:28:42]       row_count > 0 [PASSED]
+[22:28:42]       missing_count(customer_id) = 0 [PASSED]
+[22:28:42]       duplicate_count(order_id) = 0 [PASSED]
+[22:28:42] All is good. No failures. No warnings. No errors.
+
+2025-09-21 22:28:43,650 - ERROR - 
+2025-09-21 22:28:43,651 - INFO -  Data quality checks passed
+2025-09-21 22:28:43,651 - INFO - ETL pipeline with data quality checks completed successfully

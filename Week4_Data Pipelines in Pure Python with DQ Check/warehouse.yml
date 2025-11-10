@@ -1,0 +1,6 @@
+data_source postgres_db:
+  type: postgres
+  host: localhost
+  username: postgres
+  password: Aung24188
+  database: db_test
