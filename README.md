@@ -18,6 +18,4 @@ Week 6 – Airflow + Databases Use Airflow to move data into databases: configur
 Week 7 – Advanced DAGs Build more complex DAGs with branching, retries, multi-dataset workflows, and data quality checks (e.g., row counts). Mini-project: compare row counts between MongoDB and Postgres.
 
 
-Week 8 – Capstone Project
-
-ETL DAG from MongoDB → Pandas → SQLDB using Airflow. Data is extracted, cleaned (ObjectIds, columns, nested structures), and loaded into Postgres with schema enforcement. Modular tasks use XCom for passing data. Configurable scheduling supports batch vs micro-batch (daily vs minute) to compare performance, errors, and throughput.
+Week 8 – Capstone Project : ETL DAG from MongoDB → Pandas → SQLDB using Airflow. Data is extracted, cleaned (ObjectIds, columns, nested structures), and loaded into Postgres with schema enforcement. Modular tasks use XCom for passing data. Configurable scheduling supports batch vs micro-batch (daily vs minute) to compare performance, errors, and throughput.
