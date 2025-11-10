@@ -18,9 +18,6 @@ Week 6 – Airflow + Databases Use Airflow to move data into databases: configur
 Week 7 – Advanced DAGs Build more complex DAGs with branching, retries, multi-dataset workflows, and data quality checks (e.g., row counts). Mini-project: compare row counts between MongoDB and Postgres.
 
 Week 8 – Capstone Projects Apply everything in larger projects:
-
 ETL DAG from MongoDB → Pandas → Postgres
-
 API ingestion DAG that fetches data hourly and stores in DB
-
 Batch vs micro-batch pipelines (daily vs every minute), comparing execution time, errors, and throughput.
